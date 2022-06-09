@@ -3,7 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Legacy/ScrollView/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Legacy/ScrollView/app/src/main/res/drawable/ic_edit.xml" value="0.2125" />
+        <entry key="..\:/Legacy/ScrollView/app/src/main/res/layout-hdpi/actvity_input_item.xml" value="0.22" />
+        <entry key="..\:/Legacy/ScrollView/app/src/main/res/layout-mdpi/activity_input_item.xml" value="0.2" />
+        <entry key="..\:/Legacy/ScrollView/app/src/main/res/layout-small/activity_input_item.xml" value="0.33" />
+        <entry key="..\:/Legacy/ScrollView/app/src/main/res/layout-w320dp-h426dp/activity_input_item.xml" value="0.25" />
+        <entry key="..\:/Legacy/ScrollView/app/src/main/res/layout-w426dp-h320dp/activity_input_item.xml" value="0.12" />
+        <entry key="..\:/Legacy/ScrollView/app/src/main/res/layout/activity_input_item.xml" value="0.18" />
+        <entry key="..\:/Legacy/ScrollView/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Legacy/ScrollView/app/src/main/res/menu/editdeleteshow.xml" value="0.1" />
+        <entry key="..\:/Legacy/ScrollView/app/src/main/res/menu/menu.xml" value="0.22" />
       </map>
     </option>
   </component>
